@@ -3,3 +3,5 @@
 -Stack
 -Queue
 -Tree
+-Graph
+-Hashing
